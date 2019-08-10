@@ -1,1 +1,2 @@
 It is simple file for making documentation.
+DevOps is a mindset 
